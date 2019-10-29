@@ -36,12 +36,33 @@ Agriculture and Agri-Foods Canada – Integrated Applications Services
 * Implemented quality of life features such as keyboard shortcuts in tables allowing for quick data input.
 
 ### **TECHNICAL SKILLS**
-| Languages           | Frameworks | Technologies         |
-|---------------------|------------|----------------------|
-| Javascript / jQuery | React      | Git                  |
-| Java                | Bootstrap  | JIRA                 |
-| C#                  | Grails     | Visual Studio / Code |
-| SQL                 | Android    | Microsoft SQL Server |
+<table style="width:100%">
+    <tr>
+        <th align="left">Languages</th>
+        <th align="left">Frameworks</th>
+        <th align="left">Technologies</th>
+    </tr>
+    <tr>
+        <td>Javascript / jQuery</td>
+        <td>React</td>
+        <td>Git</td>
+    </tr>
+    <tr>
+        <td>Java</td>
+        <td>Bootstrap</td>
+        <td>JIRA</td>
+    </tr>
+    <tr>
+        <td>C#</td>
+        <td>Grails</td>
+        <td>Visual Studio / Code</td>
+    </tr>
+    <tr>
+        <td>SQL</td>
+        <td>Android</td>
+        <td>Microsoft SQL Server</td>
+    </tr>
+</table>
 
 ### **PROJECTS**
 Splats */ [https://github.com/brstothers/Splats](https://github.com/brstothers/Splats)*
