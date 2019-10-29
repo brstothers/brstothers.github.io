@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+---
+  title: Brendan Stother's Resume
+  header: Brendan Stothers
+---
 
-You can use the [editor on GitHub](https://github.com/brstothers/brstothers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*(204) 218-0487 • brstothers@gmail.com • github.com/brstothers*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **EDUCATION**
+**Bachelor of Science, Computer Science Major (Co-op Option)** <br/>
+*University of Manitoba / Human-Computer Interaction and Graphics Specialization / Expected: December 2019*
 
-### Markdown
+### **INDUSTRY EXPERIENCE**
+**Junior Developer** <br/>
+*May – August 2019* <br/>
+Emotion Media Inc. – Fannex
+* Developed and produced a status page using React for all of Fannex’s applications/services based on wireframes provided by the creative team.
+* Utilized React to help develop the Fannex Portal, which acts as a control panel for events (e.g., hockey games, concerts).
+* Implemented an API endpoint to allow the claiming of prizes (e.g., coupons) for interactive trivia games.
+* Created integration and API automation tests using SpecFlow to verify proper functionality of API endpoints.
+* Wrote and updated documentation for internal company use (e.g., front- and back-end setup for their local web application development).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Junior Web and Application Developer** <br/>
+*September – December 2018* <br/>
+Government of Manitoba – Business Transformation and Technology
+* Translated forms from their paper original into an online web form equivalent for easier public access using Javascript and HTML (e.g., SHRP, EIA, and Permits for Highway  Construction).
+* Developed a Tooth Chart for easy identification of problem teeth for Dental care purposes using Maphilight.
+* Created a prototype form that allowed a single entry of certain fields to be populated across multiple forms.
 
-```markdown
-Syntax highlighted code block
+**Programmer/Analyst** <br/>
+*January – April 2018* <br/>
+Agriculture and Agri-Foods Canada – Integrated Applications Services
+* Refitted a navigation bar/notification system into a timesheet management application using Javascript/jQuery   and Bootstrap, that allows for easy access to other applications and informs users of invalid input.
+* Developed bug fixes for both the front-end (Bootstrap, Javascript) and back-end (Grails).
+* Worked with a group of students to create a prototype knowledge base website for internal use.
+* Implemented quality of life features such as keyboard shortcuts in tables allowing for quick data input.
 
-# Header 1
-## Header 2
-### Header 3
+### **TECHNICAL SKILLS**
+| Languages           | Frameworks | Technologies         |
+|---------------------|------------|----------------------|
+| Javascript / jQuery | React      | Git                  |
+| Java                | Bootstrap  | JIRA                 |
+| C#                  | Grails     | Visual Studio / Code |
+| SQL                 | Android    | Microsoft SQL Server |
 
-- Bulleted
-- List
+### **PROJECTS**
+Splats */ [https://github.com/brstothers/Splats](https://github.com/brstothers/Splats)*
+* A stylized table tennis game made in Unity3D with C# that colours the scene when the ball touches the table.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brstothers/brstothers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+myShifts */ [https://github.com/brstothers/myShifts](https://github.com/brstothers/myShifts)*
+* An Android application made in Java for managers to create and edit shifts for their employees who can then view all of their upcoming shifts in an organized manner.                                                                                            
