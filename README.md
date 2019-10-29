@@ -53,7 +53,7 @@ Once you have all the prerequisites created and/or downloaded/installed, we are 
 13. Copy the below example front matter block given and replace it with your own text. NOTE: The front matter block should be at the top of the index.md file. 
     * ![Front matter](https://i.imgur.com/7tpsx19.gif)
 
-What is the the front matter block? It is used to set variables that allow for more customization,such as setting the title of a website. Here is an example of what a front block looks like:
+What is the the front matter block? It is used to set variables that allow for more customization, such as setting the title of a website. Here is an example of what a front block looks like:
 
 ```
 ---
