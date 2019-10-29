@@ -1,6 +1,6 @@
 ---
   title: Brendan Stother's Resume
-  header: Brendan Stothers
+  name: Brendan Stothers
 ---
 
 *(204) 218-0487 • brstothers@gmail.com • github.com/brstothers*
